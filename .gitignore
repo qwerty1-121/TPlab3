@@ -1,0 +1,27 @@
+# Qt Creator user settings
+*.user
+*.user.*
+
+# Build folders
+build-*/
+debug/
+release/
+
+# qmake generated files
+Makefile
+Makefile.*
+.qmake.stash
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.dll
+
+# Qt generated files
+moc_*.cpp
+ui_*.h
+
+# Temporary files
+*.tmp
+*.log
